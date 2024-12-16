@@ -26,7 +26,7 @@ class Test
                 }
             }
         }
-
+        //
         // Выводим результат
         Console.WriteLine($"Количество символов '{symbol}': {count}");
 
